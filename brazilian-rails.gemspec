@@ -1,14 +1,14 @@
-require File.expand_path("../lib/your_gem/version", __FILE__)
+require File.expand_path("../lib/brazilian-rails")
 
 Gem::Specification.new do |gem|
   gem.name    = 'Brazilian Rails Giga'
-  gem.version = GigaBrasilianRails::VERSION
+  gem.version = GigaBrazilianRails::VERSION
   gem.date    = Date.today.to_s
 
   gem.summary = "Brazilian Rails"
   gem.description = "Test"
 
-  gem.authors  = ['Brasilian-rails team from https://github.com/tapajos/brazilian-rails']
+  gem.authors  = ['brazilian-rails team from https://github.com/tapajos/brazilian-rails']
   gem.email    = '113andre113@gmail.com'
   gem.homepage = 'https://github.com/Andre113/brazilian-rails'
 
