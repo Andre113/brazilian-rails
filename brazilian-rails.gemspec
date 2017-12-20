@@ -1,4 +1,4 @@
-require File.expand_path("../lib/brazilian-rails")
+require File.expand_path("./lib/brazilian-rails")
 
 Gem::Specification.new do |gem|
   gem.name    = 'Brazilian Rails Giga'
